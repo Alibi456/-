@@ -79,7 +79,7 @@ def not_scammer_request(message):
 def donate_info(message):
     bot.send_message(message.chat.id,
         "Хочешь поддержать проект?\n"
-        "Мой ник в Roblox: *Тут будет твой ник Рататуй*\n"
+        "Мой ник в Roblox: *@RatatouyVO*\n"
         "Можешь поддержать звёздочками в Telegram или робуксами!",
         parse_mode="Markdown")
 
